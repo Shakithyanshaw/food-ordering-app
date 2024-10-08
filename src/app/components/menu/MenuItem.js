@@ -10,7 +10,9 @@ export default function MenuItem() {
       </div>
       <h4 className="font-semibold text-xl my-3">Pepperoni Pizza</h4>
       <p className="text-gray-500 text-sm">
-        Lorem ipsum sit amet, fdjvea jlbeavjlahvbjjbadjhb bjhbvva
+        LPepperoni Pizza is a delicious pizza topped with spicy pepperoni,
+        melted cheese, and tangy tomato sauce on a crispy crust, offering a bold
+        and savory flavor.
       </p>
       <button className="mt-4 bg-primary text-white rounded-full px-8 py-2">
         Add to card $12
@@ -18,4 +20,3 @@ export default function MenuItem() {
     </div>
   );
 }
-//fix
